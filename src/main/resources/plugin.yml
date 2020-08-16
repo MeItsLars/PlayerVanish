@@ -1,0 +1,9 @@
+name: PlayerVanish
+version: ${project.version}
+main: nl.itslars.playervanish.PlayerVanish
+authors: [ItsLars]
+description: Een plugin om spelers te verbergen voor andere spelers
+
+commands:
+  vanish:
+    description: Maak jezelf onzichtbaar voor andere spelers!
